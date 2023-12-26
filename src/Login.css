@@ -1,0 +1,19 @@
+
+@import './common-style.css';
+.image-container {
+  padding: 20px;
+}
+
+.form-container {
+  margin-top: 200px;
+  margin-left: 10%;
+  width: 500px;
+  border-radius: 10px;
+  padding: auto;
+  margin-bottom: auto;  
+  border-width: 1px;
+  border-style: solid;
+}
+
+
+
